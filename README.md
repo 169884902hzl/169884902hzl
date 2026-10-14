@@ -7,6 +7,8 @@
 
   <p align="center">
     <a href="https://169884902hzl.github.io/hzlink-academicpages/"><img src="https://img.shields.io/badge/Academic_Homepage-Zhilun_Hu-0f4c81?style=flat-square" alt="Academic Homepage" /></a>
+    <a href="https://169884902hzl.github.io/hzlink-academicpages/scholar/"><img src="https://img.shields.io/badge/Scholar_Citations-BibTeX_Profile-1a73e8?style=flat-square" alt="Scholar Citations Profile" /></a>
+    <a href="https://orcid.org/0009-0006-9392-1125"><img src="https://img.shields.io/badge/ORCID-0009--0006--9392--1125-a6ce39?style=flat-square" alt="ORCID" /></a>
     <a href="https://english.hust.edu.cn/"><img src="https://img.shields.io/badge/Institution-HUST_(MSE)-1e293b?style=flat-square" alt="HUST" /></a>
     <a href="https://mse.hust.edu.cn/info/1143/1385.htm"><img src="https://img.shields.io/badge/Advisor-Prof._Weiming_Shen-0369a1?style=flat-square" alt="Advisor: Prof. Weiming Shen" /></a>
     <a href="https://ras.papercept.net/conferences/scripts/rtf/CASE26_ContentListWeb_4.html"><img src="https://img.shields.io/badge/IEEE_CASE_2026-Accepted_(ThCT6.3)-15803d?style=flat-square" alt="IEEE CASE 2026 Accepted" /></a>
@@ -24,6 +26,7 @@ My research centers on **Reliable Robotic Manipulation**—investigating how phy
 > 我是**胡至伦**，华中科技大学机械科学与工程学院博士研究生，师从**[沈卫明教授](https://mse.hust.edu.cn/info/1143/1385.htm)**。我的研究致力于解决**机器人操作中的可靠性问题（Reliable Robotic Manipulation）**，构建从**主动视觉伺服感知**、**双臂柔性操作先验视觉校验**、**视触觉强化学习策略自适应**到**故障恢复与经验记忆**的完整闭环架构。
 
 - **Academic Homepage (Main)**: [https://169884902hzl.github.io/hzlink-academicpages/](https://169884902hzl.github.io/hzlink-academicpages/)
+- **Scholar Citations & BibTeX Profile**: [https://169884902hzl.github.io/hzlink-academicpages/scholar/](https://169884902hzl.github.io/hzlink-academicpages/scholar/) · **ORCID**: [`0009-0006-9392-1125`](https://orcid.org/0009-0006-9392-1125)
 - **Curriculum Vitae & Full Publications**: [CV](https://169884902hzl.github.io/hzlink-academicpages/cv/) · [Publications](https://169884902hzl.github.io/hzlink-academicpages/publications/) · [Projects](https://169884902hzl.github.io/hzlink-academicpages/#projects)
 
 ---
