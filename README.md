@@ -73,12 +73,12 @@ My research centers on **Reliable Robotic Manipulation**—investigating how phy
 
 <table>
   <tr>
-    <td width="34%" valign="middle" align="center">
+    <td width="36%" valign="middle" align="center">
       <a href="https://169884902hzl.github.io/hzlink-academicpages/portfolio/active-observation/">
-        <img src="./assets/active-observation.svg" alt="Active Observation Architecture" width="100%" />
+        <img src="./assets/renders/active-observation.png" alt="Active Observation 3D Studio Visualization" width="100%" />
       </a>
     </td>
-    <td width="66%" valign="top">
+    <td width="64%" valign="top">
       <p>
         <img src="https://img.shields.io/badge/IEEE_CASE_2026-Accepted-166534?style=flat-square" alt="Accepted" />
         <img src="https://img.shields.io/badge/Role-First_Author-334155?style=flat-square" alt="First Author" />
@@ -95,12 +95,12 @@ My research centers on **Reliable Robotic Manipulation**—investigating how phy
     </td>
   </tr>
   <tr>
-    <td width="34%" valign="middle" align="center">
+    <td width="36%" valign="middle" align="center">
       <a href="https://169884902hzl.github.io/hzlink-academicpages/portfolio/vr-loop/">
-        <img src="./assets/vr-loop.svg" alt="VR-Loop Architecture" width="100%" />
+        <img src="./assets/renders/vr-loop.png" alt="VR-Loop 3D Studio Visualization" width="100%" />
       </a>
     </td>
-    <td width="66%" valign="top">
+    <td width="64%" valign="top">
       <p>
         <img src="https://img.shields.io/badge/Status-Manuscript_Under_Review-1e40af?style=flat-square" alt="Under Review" />
         <img src="https://img.shields.io/badge/Role-Second_Author-334155?style=flat-square" alt="Second Author" />
@@ -125,7 +125,7 @@ My research centers on **Reliable Robotic Manipulation**—investigating how phy
   <tr>
     <td width="50%" valign="top">
       <a href="https://169884902hzl.github.io/hzlink-academicpages/portfolio/visuotactile-adaptation/">
-        <img src="./assets/visuotactile-adaptation.svg" alt="T-Rex / Sticks Visuotactile Policy Adaptation" width="100%" />
+        <img src="./assets/renders/visuotactile.png" alt="T-Rex / Sticks Visuotactile Policy Adaptation 3D Render" width="100%" />
       </a>
       <h4><a href="https://169884902hzl.github.io/hzlink-academicpages/portfolio/visuotactile-adaptation/">T-Rex / Sticks: Visuotactile Policy Adaptation</a></h4>
       <p><em>Visuotactile Learning · Ongoing Research</em></p>
@@ -133,7 +133,7 @@ My research centers on **Reliable Robotic Manipulation**—investigating how phy
     </td>
     <td width="50%" valign="top">
       <a href="https://169884902hzl.github.io/hzlink-academicpages/portfolio/helix/">
-        <img src="./assets/helix.svg" alt="HELIX Failure Recovery and Experience Memory" width="100%" />
+        <img src="./assets/renders/helix.png" alt="HELIX Failure Recovery and Experience Memory 3D Render" width="100%" />
       </a>
       <h4><a href="https://169884902hzl.github.io/hzlink-academicpages/portfolio/helix/">HELIX: Failure Recovery &amp; Experience Memory</a></h4>
       <p><em>Failure Recovery · Ongoing Simulation Research</em></p>
